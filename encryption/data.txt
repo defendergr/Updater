@@ -1,0 +1,7 @@
+{
+"update": "https://www.googleapis.com/drive/v3/files/17vElUo06PY2EQglOzbSl35tpxpsbmOOW?alt=media&key=AIzaSyDdiyofDEnBFuIaxTi1xqwjYl9KtdQXHZs",
+"check":"https://drive.google.com/uc?export=download&id=1Ai4AwWZtfN60zyW34KRDxlJMQ9bRaqn_",
+"fn": "main.rar",
+"local": "lver",
+"remote": "rver"
+}
